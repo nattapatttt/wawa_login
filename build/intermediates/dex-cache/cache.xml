@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natt\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Natt\AndroidStudioProjects\labwawa\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natt\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.0.0\d88059003509074dd59fa226c822724bcf5ec0ca\disklrucache-4.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d88059003509074dd59fa226c822724bcf5ec0ca">
+        <dex dex="C:\Users\Natt\AndroidStudioProjects\labwawa\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natt\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.0.0\f80192e6fd828d41c7da6f3552b0bef5d89cb26e\annotations-4.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f80192e6fd828d41c7da6f3552b0bef5d89cb26e">
+        <dex dex="C:\Users\Natt\AndroidStudioProjects\labwawa\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natt\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\34b66c68d6663a2cfe2c481a6c2e00f1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Natt\AndroidStudioProjects\labwawa\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natt\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Natt\AndroidStudioProjects\labwawa\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natt\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\7296f6de95cef2d09dd9e150e324022b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Natt\AndroidStudioProjects\labwawa\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natt\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.1\4d060ca3190df0eda4dc13415532a12e15ca5f11\okhttp-3.8.1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="C:\Users\Natt\AndroidStudioProjects\labwawa\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natt\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0ff8931513392990d837dd270a4e49c8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Natt\AndroidStudioProjects\labwawa\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natt\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\21d24deb5c61ac129ca0ed06ff51c545\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Natt\AndroidStudioProjects\labwawa\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natt\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\aa42258d2827bb02c96782d2303c0437\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Natt\AndroidStudioProjects\labwawa\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natt\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.1\2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0\gson-2.8.1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="C:\Users\Natt\AndroidStudioProjects\labwawa\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natt\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\gifdecoder\4.0.0\47c487cc4e64e6ab127a517669ca9a7b49f8c61d\gifdecoder-4.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47c487cc4e64e6ab127a517669ca9a7b49f8c61d">
+        <dex dex="C:\Users\Natt\AndroidStudioProjects\labwawa\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natt\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Natt\AndroidStudioProjects\labwawa\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\8394b559368a3c62c0a91bdd6351ba11\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Natt\AndroidStudioProjects\labwawa\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natt\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\e4436226a12547d945d3a21dbe8a881a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Natt\AndroidStudioProjects\labwawa\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\c0168eb415b825015de00f8592a6302f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Natt\AndroidStudioProjects\labwawa\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natt\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\cc433d669a10af7a5ecb00c1870011b8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Natt\AndroidStudioProjects\labwawa\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\776fa564b2e68eac9086ad3ea08cb43f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Natt\AndroidStudioProjects\labwawa\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natt\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\4.0.0\dff931af436f0a2815d0109ab2258bbce2d6275d\glide-4.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dff931af436f0a2815d0109ab2258bbce2d6275d">
+        <dex dex="C:\Users\Natt\AndroidStudioProjects\labwawa\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natt\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\10361cb8eba9539980ad865aed1ca1fa\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\Natt\AndroidStudioProjects\labwawa\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+
+</items>
